@@ -92,12 +92,10 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 394034,PA,The Horsham Clinic,https://uhsfilecdn.eskycity.net/bh/232842434-horsham-standard_charges.csv
 390173,PA,Indiana Regional Medical Center,https://res.cloudinary.com/dpmykpsih/raw/upload/irmc-site-339/media/18f9e5c22e6f4bf3ba7d5a0b298c7dc5/250965404_indiana-regional-medical-center_standardchargescsv.xlsx
 392027,PA,Kindred Hospital Philadelphia,https://www.kindredhospitals.com/docs/default-source/default-document-library/locations/transitional-care-hospitals/cms-price-transparency-files/philadelphia-4614.csv?sfvrsn=470183ea_2&download=true
-392027,PA,Kindred Hospital Philadelphia - Havertown,https://www.kindredhospitals.com/docs/default-source/default-document-library/locations/transitional-care-hospitals/cms-price-transparency-files/havertown-4510.csv?sfvrsn=fd0683ea_2&download=true
 393054,PA,Lancaster Rehabilitation Hospital,https://www.lancasterrehabhospital.com/docs/librariesprovider19/default-document-library/208092253_lancasterrehabilitationhospital_standardcharges.csv
 393055,PA,St. Mary Rehabilitation Hospital,https://www.stmaryrehabilitationhospital.com/docs/librariesprovider20/default-document-library/273938747_stmaryrehabilitationhospital_standardcharges.csv
 390030,PA,Lehigh Valley Hospital,https://www.lvhn.org/sites/default/files/2022-01/231689692_Lehigh_Valley_Hospital_StandardCharges.zip
 390185,PA,Lehigh Valley Hospital Hazleton,https://www.lvhn.org/sites/default/files/2021-12/232421970_LVH_Hazleton_StandardCharges.zip
-390030,PA,Lehigh Valley Hospital Schuylkill,https://www.lvhn.org/sites/default/files/2021-12/231352202_LVH_Schuylkill_StandardCharges.zip
 390201,PA,Lehigh Valley Hospital Pocono,https://www.lvhn.org/sites/default/files/2021-12/240795623_LVH_Pocono_StandardCharges.zip
 393038,PA,Magee Rehabilitation Hospital,https://use2webtechstgpricelist.blob.core.windows.net/pricelist/Complete%20File/23-1476328_JMR001_Magee%20Rehabilitation%20Hospital_standardcharges.csv
 394040,PA,Meadows Psychiatric Center,https://uhsfilecdn.eskycity.net/bh/232842434-meadows-standard_charges.csv
@@ -126,7 +124,6 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 392036,PA,Select Specialty Hospital Laurel Highlands,https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/25-1855814_Select_Specialty_Hospital-Laurel_Highlands_standardcharges.csv
 392045,PA,Select Specialty Hospital McKeesport,https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/80-0077092_Select_Specialty_Hospital-McKeesport_standardcharges.csv
 392044,PA,Select Specialty Hospital Pittsburgh/UPMC,https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/73-1678377_Select_Specialty_Hospital-Pittsburgh-UPMC_standardcharges.csv
-390299,PA,Select Specialty Hospital York,https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/25-1885943_Select_Specialty_Hospital-York_standardcharges.csv
 390211,PA,Sharon Regional Medical Center,https://content.steward.org/sites/default/files/815457135_SharonRegionalHealthSystem_standardcharges.xlsx
 390228,PA,St. Clair Hospital,https://www.stclair.org/wp-content/uploads/2022/05/4-1-22-Machine-Readable-File-SCH.csv
 390316,PA,Surgical Institute of Reading,https://sireading.com/680561190_SurgicalInstituteofReading_standardcharges.json
@@ -159,13 +156,9 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 390039,PA,UPMC Somerset,https://www.somersethospital.com/wp-content/uploads/2022/03/250965570_upmc-somerset_standardcharges.csv
 390102,PA,UPMC St. Margaret,https://cdn.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/232875070_upmc-st-margaret_standardcharges.csv
 391316,PA,UPMC Wellsboro,https://cdn.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/232176963_upmc-wellsboro_standardcharges.csv
-390067,PA,UPMC West Shore,https://cdn.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/251778644_upmc-pinnacle-hospitals_standardcharges.csv
-390164,PA,UPMC Western Psychiatric Hospital,https://cdn.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965480_upmc-western-psychiatric_standardcharges.csv
 390045,PA,UPMC Williamsport,https://cdn.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/240795508_upmc-williamsport_standardcharges.csv
-390045,PA,UPMC Williamsport Divine Providence Campus,https://cdn.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/240795508_upmc-williamsport_standardcharges.csv
 390146,PA,Warren General Hospital,https://goldteamstorage.blob.core.windows.net/hpifilestorage/8133/250965598_HPI-CDM_standardcharges.json
 390150,PA,Washington Health System,https://whs.org/wp-content/uploads/2022/03/25-0965600_Washington-Hospital_standardcharges_032822.xlsx
-390150,PA,Washington Health System Greene,https://whs.org/wp-content/uploads/2022/03/47-3884840_Washington-Health-System-Greene_standardcharges_032822.xlsx
 110124,PA,Wayne Memorial Hospital,https://www.wmh.org/wp-content/uploads/2021/09/WMH-Charge-Info-2021-Website.v2.xlsx
 390151,PA,WellSpan Chambersburg Hospital,https://www.wellspan.org/media/2626492/230465970_chambersburg-hospital_standardcharges.json
 390225,PA,WellSpan Ephrata Community Hospital,https://www.wellspan.org/media/2659831/231370484_ephrata-hospital_standardcharges.json
@@ -198,7 +191,6 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 210022,MD,Suburban Hospital,https://jhm-web-assets.s3.amazonaws.com/hopkinsmedicine/prod/charge-fees/520610545_SuburbanHospital_standardcharges.csv
 103300,MD,Johns Hopkins All Children's Hospital,https://www.hopkinsallchildrens.org/getmedia/c96cf29b-507d-4177-aa49-09c61948b85b/StandardCharges;.aspx
 210002,MD,University of Maryland Medical Center,https://www.umms.org/ummc/-/media/files/ummc/patients-and-visitors/for-patients/hospital-charges/521362793-ummc-standard-charges--feb-2022.csv
-210002,MD,R. Adams Cowley Shock Trauma Center,https://www.umms.org/ummc/-/media/files/ummc/patients-and-visitors/for-patients/hospital-charges/521362793-um-r-adams-cowley-shock-trauma-center-standard-charges--feb-2022.csv
 213300,MD,Mt. Washington Pediatric Hospital,https://www.mwph.org/-/media/files/mwph/patients-and-guests/hospital-charges/520591483-mtwashington-pediatric-hospital-standard-charges.csv
 010011,AL,Saint Vincent's East,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/al/630578923_ascension-saint-vincents-east_standardcharges.xlsx
 011305,AL,Saint Vincent's Blount,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/al/630909073_saint-vincents-blount_standardcharges.xlsx
@@ -241,8 +233,6 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 151325,IN,Ascension St. Vincent Warrick,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in/351343019_ascension-st-vincent-warrick_standardcharges.xlsx
 151335,IN,Ascension St. Vincent Dunn,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in/272192831_ascension-st-vincent-dunn_standardcharges.xlsx
 152020,IN,Ascension St. Vincent Seton Specialty Hospital,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in/351712001_ascension-st-vincent-seton-specialty-hospital_standardcharges.xlsx
-150157,IN,Ascension St Vincent Carmel Ambulatory Surgery Center,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in/320014795_ascension-st-vincent-carmel-asc_standardcharges.xlsx
-150157,IN,Ascension St Vincent Endoscopy Center,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in/320029881_ascension-st-vincent-endoscopy-center_standardcharges.xlsx
 170142,KS,Ascension Via Christi Hospital Manhattan,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/ks/481186704_ascension-via-christi-hospital-_standardcharges.xlsx
 170006,KS,Ascension Via Christi Hospital Pittsburg,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/ks/480543778_ascension-via-christi-hospital_standardcharges.xlsx
 170122,KS,Ascension Via Christi St. Francis,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/ks/481172106_ascension-via-christi-st-francis-_standardcharges.xlsx
@@ -250,8 +240,6 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 171337,KS,Wamego Health Center,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/ks/721526400_wamego-health-center_standardcharges.xlsx
 173028,KS,Ascension Via Christi Rehabilitation Hospital,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/ks/481158274_ascension-via-christi-rehabiliatation-hospital_standardcharges.xlsx
 210011,MD,Saint Agnes Hospital,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/md/520591657_saint-agnes-hospital_standardcharges.xlsx
-230019,MI,Ascension Providence Hospital Southfield Campus,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/mi/381358212_ascension-providence-hospital-southfield-campus_standardcharges.xlsx
-230019,MI,Ascension Providence Hospital Novi Campus,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/mi/381358212_ascension-providence-hospital-novi-campus_standardcharges.xlsx
 230165,MI,Ascension St. John Hospital,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/mi/381359063_ascension-st-john-hospital_standardcharges.xlsx
 230195,MI,Ascension Macomb-Oakland Hospital Warren Campus,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/mi/383322109_ascension-macomb-oakland-hospital-warren-campus_standardcharges.xlsx
 230223,MI,Ascension Macomb-Oakland Hospital Madison Heights Campus,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/mi/383322109_ascension-macomb-oakland-hospital-madison-heights-campus_standardcharges.xlsx
@@ -293,7 +281,6 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 670041,TX,Ascension Seton Williamson,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tx/741109643_ascension-seton-williamson_standardcharges.xlsx
 670143,TX,Ascension Seton Bastrop,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tx/741109643_ascension-seton-bastrop_standardcharges.xlsx
 670056,TX,Ascension Seton Hays,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tx/741109643_ascension-seton-hays_standardcharges.xlsx
-230019,TX,Ascension Providence,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tx/741109636_ascension-providence_standardcharges.xlsx
 450042,TX,Ascension Providence DePaul (Distinct Part Unit),https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tx/741109636_ascension-providence-depaul-distinct-part-unit_standardcharges.xlsx
 520009,WI,Ascension NE Wisconsin - St. Elizabeth Campus,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi/390816818_ascension-ne-wisconsin-st-elizabeth-campus_standardcharges.xlsx
 520048,WI,Ascension NE Wisconsin - Mercy Campus,https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi/390816818_ascension-ne-wisconsin-mercy-campus_standardcharges.xlsx
@@ -329,7 +316,6 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 510013,WV,Reynolds Memorial Hospital,https://wvumedicine.org/wp-content/uploads/2022/03/550357045_ReynoldsMemorialHospital_standardcharges.xlsx
 511321,WV,St. Joseph's Hospital,https://wvumedicine.org/wp-content/uploads/2022/03/550356996_StJosephsHospitalofBuckhannonInc_standardcharges.xlsx
 511322,WV,Summersville Regional Medical Center,https://wvumedicine.org/wp-content/uploads/2022/03/550650441_WestVirginiaHealthCareCooperative_standardcharges.xlsx
-390041,PA,Uniontown Hospital,https://wvumedicine.org/wp-content/uploads/2022/03/250965588_Uniontown_standardcharges.xlsx
 510072,WV,Wetzel County Hospital,https://wvumedicine.org/wp-content/uploads/2022/03/843480493_WetzelCountyHospital_standardcharges.xlsx
 510050,WV,Wheeling Hospital,https://wvumedicine.org/wp-content/uploads/2022/02/550357057_wheeling-hospital_standardcharges-1.xlsx
 210060,MD,Adventist HealthCare Fort Washington Medical Center,https://www.adventisthealthcare.com/app/files/public/91919297-0df2-4ab4-b788-71160672291c/FWMC-Billing-StandardCharges.csv
@@ -339,16 +325,12 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 210039,MD,CalvertHealth Medical Center,https://www.calverthealthmedicine.org/Uploads/Public/Documents/PatientResources/CalvertHealth_%20CDM%209.22.2022.xlsx
 210032,MD,ChristianaCare Union Hospital,https://billing.christianacare.org/media/4/download
 210005,MD,Frederick Health Hospital,https://www.frederickhealth.org/documents/page%20links/billing%20&%20finance/CdmPublicPricing.csv
-210002,MD,UM Shore Medical Center at Cambridge,https://www.umms.org/shore/-/media/files/um-shore/patients-and-visitors/hospital-charges/um-shore-medical-center-cambridge-standard-charges-may-2022.csv
 210030,MD,UMD Shore Medical Center at Chestertown,https://www.umms.org/shore/-/media/files/um-shore/patients-and-visitors/hospital-charges/um-shore-medical-center-chestertown-standard-charges-may-2022.csv
 210037,MD,UM Shore Medical Center at Easton,https://www.umms.org/shore/-/media/files/um-shore/patients-and-visitors/hospital-charges/um-shore-medical-center-at-easton-standard-charges-may-2022.csv
-21C0001564,MD,UM Shore Emergency Center at Queenstown,https://www.umms.org/shore/-/media/files/um-shore/patients-and-visitors/hospital-charges/um-shore-emergency-center-queenstown-standard-charges-may-2022.csv
 210055,MD,UM Laurel Medical Center,https://www.umms.org/capital/-/media/files/um-capital/patients-and-visitors/um-laurel-medical-center-standard-charges-may-2022.csv
 260047,MD,UM Capital Region Medical Center,https://www.umms.org/capital/-/media/files/um-capital/patients-and-visitors/um-capital-region-medical-center-standard-charges-may-2022.csv
 210019,MD,TidalHealth Peninsula Regional,https://www.tidalhealth.org/sites/default/files/2021-07/EIN_PRMC_2021_02_23.xlsx
 080006,MD,TidalHealth Nanticoke,https://www.tidalhealth.org/sites/default/files/2021-07/Shoppable_Services_NMH_2021_03_09.xlsx
-210001,MD,Meritus Medical Center,https://www.meritushealth.com/documents/financial/2022.01.01_CMS-Price-Transparency-Chargemaster.csv
-210061,MD,Atlantic General Hospital,https://www.atlanticgeneral.org/documents/biling/chargemaster-jan-2022.xlsx
 210001,MD,Meritus Medical Center,https://www.meritushealth.com/documents/financial/2022.01.01_CMS-Price-Transparency-Chargemaster.csv
 210061,MD,Atlantic General Hospital,https://www.atlanticgeneral.org/documents/biling/chargemaster-jan-2022.xlsx
 010001,AL,Southeast Health Medical Center,https://www.southeasthealth.org/wp-content/uploads/Southeast-Health-Standard-Charges-2022.xlsx
@@ -763,7 +745,6 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 050782,CA,Casa Colina Hospital,https://www.casacolina.org/images/951643989_Casa-Colina-Hospital-and-Centers-for-Healthcare_standardcharges.csv
 050784,CA,Adventist Health Tulare,https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbAHTTULARECA&type=CDMWithoutLabel
 050785,CA,Docs Surgical Hospital,https://www.docshealth.com/wp-content/uploads/2021/12/DOCS-Surgical-Hospital-Average-Billed-Charges-by-Procedures-2021-1.xlsx
-05101E,CA,Los Banos Emergency Hosp,https://www.sutterhealth.org/pdf/chargemaster/941156621-1366896300_MEMORIAL-HOSPITAL-LOS-BANOS_standardcharges.csv
 051300,CA,Eastern Plumas Hospital - Portola Campus,http://www.tippahcountyhospital.com/assets/Uploads/pricingtransparency.csv
 051301,CA,Adventist Health Tehachapi Valley,https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbTHTEHACHAPICA&type=CDMWithoutLabel
 051303,CA,Mammoth Hospital,https://mammothhospital.org/wp-content/uploads/2022/07/Price-Transparency-Charge-Master-7-1-2022.xls
@@ -848,7 +829,6 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 060112,CO,Sky Ridge Medical Center,https://core.secure.ehc.com/src/util/detail-price-list/84-1321373_sky-ridge-medical-center_standardcharges.csv
 060116,CO,Good Samaritan Medical Center,https://www.sclhealth.org/-/media/431982139_good-samaritan-medical-center_standardcharges.csv
 060117,CO,"Animas Surgical Hospital, Llc",https://s3.amazonaws.com/assets.client-sites.ihealthspot.com/161632441_animas-surgical-hospital-llc_standardcharges.csv
-06020E,CO,Vail Clinic,https://www.vailhealth.org/csv/84_0563230_vail_health_standardcharges.csv
 061300,CO,Weisbrod Memorial County Hospital,https://www.kchd.org/wp-content/uploads/2020/12/84-0537008_Kiowa-County-Hospital-District_standardchargesCDM-1.csv
 061304,CO,Haxtun Hospital District,https://haxtunhealth.org/wp-content/uploads/2020/09/Charge_master_01012019.xlsx
 061305,CO,Melissa Memorial Hospital,https://melissamemorial.org/wp-content/uploads/2022/10/846014138_melissa-memorial-hospital_standardcharges.csv
@@ -2013,8 +1993,6 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 250136,MS,Merit Health Women's Hospital,https://www.merithealthwomanshospital.com/Uploads/Public/Documents/charge-masters/640780035_Merit%20Woman's_standardcharges.csv
 250138,MS,Merit Health River Oaks,https://www.merithealthriveroaks.com/Uploads/Public/Documents/charge-masters/640626874_Merit%20River%20Oaks_standardcharges.csv
 250141,MS,Baptist Memorial Hospital Desoto,https://sites.bmhcc.org/-/media/Pricing-Documents/MS/64-0682111_BMH-DeSoto_STANDARDCHARGES.zip
-25063E,MS,Doctors Hosp-,https://www.ohiohealth.com/siteassets/patients-and-visitors/preparing-for-your-visit/out-of-pocket-estimates/31-4394942_doctors_standardcharges.xlsx
-25100E,MS,Riverside Hosp,https://www.ohiohealth.com/siteassets/patients-and-visitors/preparing-for-your-visit/out-of-pocket-estimates/31-4394942_riverside_standardcharges.xlsx
 251300,MS,S E Lackey Memorial Hospital,https://www.lackeymemorialhospital.com/wp-content/uploads/2019/01/Lackey-Charge-Master-1.24.2019.csv
 251302,MS,Monroe Regional Hospital,https://monroeregionalhospital.com/wp-content/uploads/2021/08/MRH-ABERDEEN-CHARGEMASTER.csv
 251305,MS,Lawrence County Hospital Cah,https://pricetransparency.blob.core.windows.net/smrmc/640468873_lawrencecountyhospital_standardcharges.csv
@@ -2197,7 +2175,6 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 290008,NV,Northeastern Nevada Regional Hospital,https://www.nnrhospital.com/sites/nnrh/assets/uploads/MRF%20-%20Northeastern_Nevada_Regional_Elko_Standard_Charges_06032021%20621740235.zip
 290012,NV,Saint Rose Dominican Hospitals - Rose De Lima,https://www.dignityhealth.org/content/dam/dignity-health/documents/pricing-procedure-spreadsheets-2020/941196203_St-Rose-Dominican-Rose-de-Lima_standardcharges.csv
 290019,NV,Carson Tahoe Regional Medical Center,https://www.carsontahoe.com/assets/pdf/carson-tahoe-regional-medical-center_standardcharges.xlsx
-29001E,NV,St Rose Dominican Hospital Siena Campus,https://www.dignityhealth.org/content/dam/dignity-health/documents/pricing-procedure-spreadsheets-2020/941196203_St-Rose-Dominican-Siena_standardcharges.csv
 290021,NV,Valley Hospital Medical Center,https://uhsfilecdn.eskycity.net/ac/232973511_valley-hospital-medical-center_standardcharges.csv
 290022,NV,Desert Springs Hospital,https://uhsfilecdn.eskycity.net/ac/232947273_desert-springs-hospital-medical-center_standardcharges.csv
 290039,NV,Mountainview Hospital,https://core.secure.ehc.com/src/util/detail-price-list/621600397_mountainview-hospital_standardcharges.csv
@@ -2229,7 +2206,6 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 300023,NH,Exeter Hospital Inc,https://www.exeterhospital.com/getmedia/17ed738f-79dd-41fb-ba96-f1555c6f6c88/222674014_exeter-hospital_standardcharges.csv.aspx
 300029,NH,Portsmouth Regional Hospital,https://core.secure.ehc.com/src/util/detail-price-list/02-0364103_portsmouth-regional-hospital_standardcharges.csv
 300034,NH,Catholic Medical Center,https://www.catholicmedicalcenter.org/CatholicMedicalCenter/media/CMCE-Media-Library/PatientVisitors/020315693_CatholicMedicalCenter_standardcharges-csv.xlsx
-30004E,NH,Morrison Hosp,https://assets.changehealthcare.com/Shop/PROD/static/ConcordHospital/300001_ConcordHospital_standardcharges.xlsx.zip
 301300,NH,Upper Connecticut Valley Hospital,https://www.ucvh.org/wp-content/uploads/sites/2/2022/04/Chargemaster-10-1-19-for-website-posting.xls
 301301,NH,Cottage Hospital,https://www.cottagehospital.org/uploads/files/FY22%20Chargemaster%281%29.xlsx
 301305,NH,Alice Peck Day Memorial Hospital,https://www.alicepeckday.org/sites/default/files/2021-11/AlicePeckDayMemorial-standardcharges.csv
@@ -2301,8 +2277,6 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 320085,NM,Mountain View Regional Medical Center,https://www.mountainviewregional.com/Uploads/Public/Documents/charge-masters/752905434_Mountainview_standardcharges.csv
 320086,NM,Lovelace Regional Hospital - Roswell,https://coc.ardenthealthservices.com/2022/newmexico/2022_RoswellRegionalHospital_standardcharges.txt
 320089,NM,Unm Sandoval Regional Medical Center,https://unmhealth.org/patients-visitors/_files/271368727_sandoval-regional-medical-center_standardcharges1.csv
-32025E,NM,Guadalupe Gen Hosp,https://static1.squarespace.com/static/5a1c9123be42d6a9486dd861/t/5fdbdac804a91c207da7448c/1608243912679/Charge+Master+effective+07-01-20.csv
-32028E,NM,Guadalupe General Hosp,https://static1.squarespace.com/static/5a1c9123be42d6a9486dd861/t/5fdbdac804a91c207da7448c/1608243912679/Charge+Master+effective+07-01-20.csv
 321310,NM,Holy Cross Hospital A Div Of Taos Health Systems,https://holycrossmedicalcenter.org/wp-content/themes/holy-cross-medical-center/img/HCMC%20-%20Charge%20Master%20List%20-%202019%20-%2006.xlsx
 322002,NM,Kindred Hospital Albuquerque,https://www.kindredhospitals.com/docs/default-source/default-document-library/locations/transitional-care-hospitals/cms-price-transparency-files/standard-charges-list-2022/850415191_albuquerque_standardcharges.csv
 322003,NM,"Albuquerque - Amg Specialty Hospital, Llc",https://28g1xh366uy0x9ort41hns72-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/Albuquerque-Price-Transparency-01-2022.xlsx
@@ -2653,7 +2627,6 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 370049,OK,Stillwater Medical Center,https://www.stillwater-medical.org/sites/default/files/StillwaterMedicalCenterOK_standardcharges.json
 370054,OK,Grady Memorial Hospital,https://www.gradymem.org/docs/736082972_GradyMemorialHospitalOK_standardcharges.json
 370057,OK,Muscogee (creek) Nation Medical Center,https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMCNMOKMULGEEOK&type=CDMWithoutLabel
-37006E,OK,Childrens Medical Center,https://www.ouhealth.com/documents/files/8218839848_oklahoma-childrens-hospital-ou-health_standardcharges.csv
 370083,OK,Pushmataha County Town Of Antlers Hospital,https://pushmatahahospital.com/images/docs/Push_Chargemaster_21.csv
 370091,OK,"Saint Francis Hospital, Inc",https://www.saintfrancis.com/assets/documents/finance/73-0700090_saint-francis-hospital-inc_standardcharges_indented.json
 370093,OK,O U Health University Of Oklahoma Medical Center,https://www.ouhealth.com/documents/files/8218839848_ou-health-university-of-oklahoma-medical-center_standardcharges.csv
@@ -2708,7 +2681,6 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 380021,OR,Tuality Community Hospital,https://tuality.org/wp-content/uploads/930430029_HillsboroMedicalCenter_StandardCharges.xlsx
 380025,OR,Legacy Mount Hood Medical Center,https://www.legacyhealth.org:443/-/media/Files/CSV/Price-Transparency/93-0591528_legacy-mount-hood-medical-center_standardcharges.json
 380029,OR,Legacy Silverton Medical Center,https://www.legacyhealth.org:443/-/media/Files/CSV/Price-Transparency/93-0281321_legacy-silverton-medical-center_standardcharges.json
-38002E,OR,Oregon State Hospital- Salem,https://www.oregon.gov/oha/OSH/Documents/930576060_Oregon_State_Hospital_standardcharges.csv
 380033,OR,Sacred Heart University District,https://app.peacehealth.org/FileRepository/Financial/StandardCharges/UDMC/93-0395583_Sacred_Heart_Medical_Center_University_District_StandardCharges.csv
 380037,OR,Providence Newberg Medical Center,https://www.providence.org/external/93-1146501_Providence-Newberg-Medical-Center_StandardCharges_NC.json
 380038,OR,Providence Willamette Falls Medical Center,https://www.providence.org/external/61-1659489_Providence-Willamette-Falls-Medical-Center_StandardCharges_NC.json
@@ -3033,7 +3005,6 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 450484,TX,Woodland Heights Medical Center,https://www.woodlandheights.net/Uploads/Public/Documents/charge-masters/621762559_Woodland%20Heights_standardcharges.csv
 450518,TX,The Medical Center Of Southeast Texas,https://content.steward.org/sites/default/files/2022-09/270060569_TheMedicalCenterofSoutheastTexas_standardcharges_0_0.csv
 450537,TX,Methodist Richardson Medical Center,https://www.methodisthealthsystem.org/documents/content%20docs/75-0800661_MethodistRichardsonMedicalCenter_standardcharges.csv
-45054E,TX,W I Cook Childrens Hosp,https://mrf.panaceainc.com/Download.aspx
 450563,TX,Baylor Scott & White Medical Center Grapevine,https://www.bswhealth.com/-/media/project/bsw/sites/bswhealth/documents/patient-tools/estimate-cost-of-care/75-1777119_baylor-scott-and-white-medical-center-grapevine_standardcharges.csv
 450571,TX,Shannon Medical Center,https://res.cloudinary.com/dpmykpsih/raw/upload/shannon-medical-center-site-305/media/r/527d113c645546778eb3b2df4c8d2d61/75-2559845_shannonmedicalcenter_standardcharges.csv
 450584,TX,Wilbarger General Hospital,https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbWGHVERNONTX&type=CDMWithoutLabel
@@ -3142,9 +3113,6 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 451386,TX,Memorial Hospital,https://www.adventhealth.com/sites/default/files/CDM/2022/452694620_Texas%20Health%20Huguley%20Hospital%20Fort%20Worth%20South_standardcharges.json
 451390,TX,Dimmit Regional Hospital,https://www.dimmitregionalhospital.com/docs/Chargemaster_2022.xlsm
 451396,TX,Baylor Scott & White Medical Center - Llano,https://www.bswhealth.com/-/media/project/bsw/sites/bswhealth/documents/patient-tools/estimate-cost-of-care/20-3749695_baylor-scott-and-white--medical-center-lakeway_standardcharges.csv
-45160E,TX,Ft Worth Neuropsychiatric Hosp,https://jpshealthnet.org/sites/default/files/2022-07/756000439_Trinity_Springs_StandardCharges.xlsx
-45167E,TX,Hurst-euless-bedford Hosp,https://www.adventhealth.com/sites/default/files/CDM/2022/452694620_Texas%20Health%20Huguley%20Hospital%20Fort%20Worth%20South_standardcharges.json
-45188E,TX,Ennis Regional Medical Center,https://www.ennisregional.com/sites/ennis/assets/uploads/CDM%20-%20ENNIS%20REGIONAL%20MEDICAL%20CENTER%2002750.xlsx
 452015,TX,Kindred Hospital Dallas,https://www.kindredhospitals.com/docs/default-source/default-document-library/locations/transitional-care-hospitals/cms-price-transparency-files/2022-docs/270339863_dallas-central_standardcharges820e045edafd66f3a486ff0000603144.csv
 452016,TX,Kindred Hospital San Antonio,https://www.kindredhospitals.com/docs/default-source/default-document-library/locations/transitional-care-hospitals/cms-price-transparency-files/2022-docs/522085561_san-antonio_standardcharges6e0e045edafd66f3a486ff0000603144.csv
 452018,TX,Texas Health Specialty Hospital Fort Worth,https://www.texashealth.org/-/media/Project/THR/shared/Documents/PDFs/Business-Office/Pricing/Hospital-Standard-Charges/texas-health-fort-worth.xlsx
@@ -3334,7 +3302,6 @@ ccn,state_or_region,reporting_entity_name_common,machine_readable_url
 490141,VA,Spotsylvania Regional Medical Center,https://core.secure.ehc.com/src/util/detail-price-list/06-1760818_spotsylvania-regional-medical-center_standardcharges.csv
 490144,VA,Uva Health Haymarket Medical Center,https://www.novanthealthuva.org/Portals/541/Assets/CSVs/Corporate/54-0696355_NovantHealthUVA_HaymarketMedicalCenter_standard_charges.csv
 490145,VA,Stonesprings Hospital Center,https://core.secure.ehc.com/src/util/detail-price-list/04-3665595_stonesprings-hospital-center_standardcharges.csv
-49037E,VA,University Of Virginia Childrens Rehab,https://uvahealth.com/sites/default/files/2022-08/546001796_university-of-virginia-medical-center_standardcharges.txt
 491300,VA,Bath Community Hospital,https://bathhospital.org/wp-content/uploads/2021/10/540505913_Bath-Community-Hospital_StandardCharges.xlsx
 491302,VA,Carilion Giles Community Hospital,https://www.carilionclinic.org/sites/default/files/2021-12/540549603_Carilion-Giles-Community-Hospital_StandardCharges.csv
 491304,VA,Carilion Stonewall Jackson Hospital,https://www.carilionclinic.org/sites/default/files/2021-12/540568001_Carilion-Rockbridge-Community-Hospital_StandardCharges.csv
