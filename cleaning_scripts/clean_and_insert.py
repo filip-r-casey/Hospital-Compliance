@@ -1,5 +1,4 @@
 import pandas as pd
-import psycopg2
 from sqlalchemy import create_engine
 import io
 
@@ -13,6 +12,7 @@ output = io.StringIO()
 
 df_features = pd.read_csv("./data/hospitals.csv")
 df_links = pd.read_csv("./data/machine_readable_links.csv")
+df_links["csv_headers"] = None
 
 subset_features = df_features.loc[
     :,
@@ -28,11 +28,21 @@ subset_links = df_links.loc[
         "state_or_region",
         "reporting_entity_name_common",
         "machine_readable_url",
+        "csv_headers",
         "meets_standard",
     ],
 ]
-# subset_links["meets_standard"] = subset_links["meets_standard"].fillna(True)
-# subset_links = subset_links.dropna()
+
+subset_links["meets_standard"] = subset_links["meets_standard"].fillna(True)
+subset_links = subset_links.dropna(
+    subset=[
+        "ccn",
+        "state_or_region",
+        "reporting_entity_name_common",
+        "machine_readable_url",
+        "meets_standard",
+    ]
+)
 # subset_links = subset_links.drop_duplicates("ccn")
 
 # subset_links.to_csv(output, sep="\t", header=False, index=False)
@@ -48,7 +58,6 @@ res = [x[0] for x in res]
 
 subset_features = subset_features[subset_features["ccn"].isin(res)]
 
-print(subset_features.head())
 subset_features.to_csv(output, sep="\t", header=False, index=False)
 output.seek(0)
 contents = output.getvalue()
